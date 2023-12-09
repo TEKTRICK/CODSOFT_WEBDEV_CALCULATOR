@@ -1,1 +1,1 @@
-# CODSOFT_WEBDEV_CALCULATOR
+This web-based calculator was created during my internship to demonstrate proficiency in front-end development. Built using HTML, CSS, and JavaScript, this calculator offers basic arithmetic functionalities, ensuring a user-friendly experience with its responsive design. It served as a practical application of my skills in web development, emphasizing clean code and intuitive design. Feel free to explore, contribute, or use it as a reference for similar projects!
